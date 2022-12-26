@@ -2,7 +2,8 @@
 
 
 
-  👋 Hi, I’m Georgios Deverakis located in :greece:	 and  I’m interested in *front-end development*!
+  👋 Hi, I’m Georgios Deverakis located in ![image](https://user-images.githubusercontent.com/68283119/209553963-b572d973-5d88-4261-a166-65c1bf03fa08.png)
+  and  I’m interested in *front-end development*!
   I am currently into  
 
 
