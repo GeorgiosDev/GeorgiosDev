@@ -2,8 +2,8 @@
 
 
 
-- 👋 Hi, I’m Georgios Deverakis located in :greece:	 and  I’m interested in front-end development!
-- I am currently into  
+  👋 Hi, I’m Georgios Deverakis located in :greece:	 and  I’m interested in *front-end development*!
+  I am currently into  
 
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -22,9 +22,9 @@ GeorgiosDev/GeorgiosDev is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Education: \
+# Education: 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)\
-[CS50x Certification]\(https://github.com/GeorgiosDev/GeorgiosDev/blob/main/2.jpg)\
+[CS50x Certification](https://github.com/GeorgiosDev/GeorgiosDev/blob/main/2.jpg)
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='PeopleCert' src='https://img.shields.io/badge/PeopleCert-100000?style=for-the-badge&logo=PeopleCert&logoColor=FF3300&labelColor=DA5D35&color=FF5100'/></a>\
 [Software Development Skills Certificate](https://github.com/GeorgiosDev/GeorgiosDev/blob/main/1.jpg)
