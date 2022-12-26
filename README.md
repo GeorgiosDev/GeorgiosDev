@@ -22,7 +22,7 @@ GeorgiosDev/GeorgiosDev is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Education: 
+# Education:
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)\
 [CS50x Certification](https://github.com/GeorgiosDev/GeorgiosDev/blob/main/2.jpg)
 
