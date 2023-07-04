@@ -25,8 +25,10 @@
 [CS50x Certification](https://github.com/GeorgiosDev/GeorgiosDev/blob/main/2.jpg)
 
 <a href='https://www.peoplecert.org/' target="_blank"><img alt='PeopleCert' src='https://img.shields.io/badge/PeopleCert-100000?style=for-the-badge&logo=PeopleCert&logoColor=FF3300&labelColor=DA5D35&color=FF5100'/></a>\
-[Software Development Skills Certificate](https://github.com/GeorgiosDev/GeorgiosDev/blob/main/1.jpg)
+[Software Development Skills Certificate Foundation ](https://github.com/GeorgiosDev/GeorgiosDev/blob/main/1.jpg)
 
+<a href='https://www.peoplecert.org/' target="_blank"><img alt='PeopleCert' src='https://img.shields.io/badge/PeopleCert-100000?style=for-the-badge&logo=PeopleCert&logoColor=FF3300&labelColor=DA5D35&color=FF5100'/></a>\
+[Software Development Skills Certificate Advanced](https://github.com/GeorgiosDev/GeorgiosDev/blob/main/e-cert.pdf)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
